@@ -4,6 +4,7 @@ img {
 body {
     text-align: center;
     font-family: 'Arial';
-    background: rgb(0, 0, 0);
+     background-image: url('Hacker GIF - Hacker - Discover & Share GIFs.gif');
+    background-size: cover;
     color: rgb(0, 255, 60);
 }
